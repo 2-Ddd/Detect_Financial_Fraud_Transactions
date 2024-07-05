@@ -1,4 +1,4 @@
-    ## Detecting Financial Fraud at Scale With Decision Trees
+    ## Detecting Financial Fraud 
     ### - Intructions on this Repo
 
     1. Heap size error
