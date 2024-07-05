@@ -25,8 +25,8 @@
 
 ### TECH STACK: MLflow, Pyspark, Jupyter, SQL
 
-Training a machine learning model to detect fraudulent behavior means teaching it to recognize patterns in the data that indicate fraud. To do this, you provide the model with a large dataset of examples. The model then learns how the input data relates to these labels. Detecting financial fraud with machine learning can be tough because there aren't many confirmed cases of fraud to learn from. Since fraud is rare and often hard to spot, the model might not get enough examples to understand what fraud looks like. 
-If there are many more non-fraud examples than fraud ones, the model might end up labeling most things as non-fraud, which isn't helpful for catching fraud. To address this, you can balance the training data by adding more examples of fraud, either by oversampling existing fraud cases or creating synthetic data. You can also improve the model by crafting new features from the existing data that give better clues about whether something is fraudulent or not.
+- Training a machine learning model to detect fraudulent behavior means teaching it to recognize patterns in the data that indicate fraud. To do this, you provide the model with a large dataset of examples. The model then learns how the input data relates to these labels. Detecting financial fraud with machine learning can be tough because there aren't many confirmed cases of fraud to learn from. Since fraud is rare and often hard to spot, the model might not get enough examples to understand what fraud looks like. 
+- If there are many more non-fraud examples than fraud ones, the model might end up labeling most things as non-fraud, which isn't helpful for catching fraud. To address this, you can balance the training data by adding more examples of fraud, either by oversampling existing fraud cases or creating synthetic data. You can also improve the model by crafting new features from the existing data that give better clues about whether something is fraudulent or not.
 
 ![Fraud_not_Fraud_each_type_transactions](https://user-images.githubusercontent.com/93171100/217422354-6c7bd4ab-bf6f-48b1-b534-4f745b0fe9e5.png)
 
