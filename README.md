@@ -33,4 +33,4 @@
 
 Copyright: This is from Big Book of Machine Learning Use Cases - 2nd Edition. I follow the instruction in this book with my modification
 https://www.databricks.com/blog/2019/05/02/detecting-financial-fraud-at-scale-with-decision-trees-and-mlflow-on-databricks.html
-"# Detect_Financial_Fraud_Transactions" 
+
